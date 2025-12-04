@@ -1,0 +1,16 @@
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/bin/Debug/net8.0/CarRegistration.Infrastructure.deps.json
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/bin/Debug/net8.0/CarRegistration.Infrastructure.dll
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/bin/Debug/net8.0/CarRegistration.Infrastructure.pdb
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/bin/Debug/net8.0/CarRegistration.Core.dll
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/bin/Debug/net8.0/CarRegistration.Core.pdb
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/CarRegistration.Infrastructure.csproj.AssemblyReference.cache
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/CarRegistration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/CarRegistration.Infrastructure.AssemblyInfoInputs.cache
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/CarRegistration.Infrastructure.AssemblyInfo.cs
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/CarRegistration.Infrastructure.csproj.CoreCompileInputs.cache
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/CarRegistration.Infrastructure.sourcelink.json
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/CarRegistration.Infrastructure.csproj.CopyComplete
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/CarRegistration.Infrastructure.dll
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/refint/CarRegistration.Infrastructure.dll
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/CarRegistration.Infrastructure.pdb
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/Debug/net8.0/ref/CarRegistration.Infrastructure.dll

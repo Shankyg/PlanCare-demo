@@ -1,0 +1,12 @@
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/bin/Debug/net8.0/CarRegistration.Core.deps.json
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/bin/Debug/net8.0/CarRegistration.Core.dll
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/bin/Debug/net8.0/CarRegistration.Core.pdb
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/obj/Debug/net8.0/CarRegistration.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/obj/Debug/net8.0/CarRegistration.Core.AssemblyInfoInputs.cache
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/obj/Debug/net8.0/CarRegistration.Core.AssemblyInfo.cs
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/obj/Debug/net8.0/CarRegistration.Core.csproj.CoreCompileInputs.cache
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/obj/Debug/net8.0/CarRegistration.Core.sourcelink.json
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/obj/Debug/net8.0/CarRegistration.Core.dll
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/obj/Debug/net8.0/refint/CarRegistration.Core.dll
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/obj/Debug/net8.0/CarRegistration.Core.pdb
+/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/obj/Debug/net8.0/ref/CarRegistration.Core.dll

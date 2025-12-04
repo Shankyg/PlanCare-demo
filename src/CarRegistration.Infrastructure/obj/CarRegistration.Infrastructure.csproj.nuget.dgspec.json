@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/CarRegistration.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/CarRegistration.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/CarRegistration.Core.csproj",
+        "projectName": "CarRegistration.Core",
+        "projectPath": "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/CarRegistration.Core.csproj",
+        "packagesPath": "/home/shanky/.nuget/packages/",
+        "outputPath": "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shanky/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/CarRegistration.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/CarRegistration.Infrastructure.csproj",
+        "projectName": "CarRegistration.Infrastructure",
+        "projectPath": "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/CarRegistration.Infrastructure.csproj",
+        "packagesPath": "/home/shanky/.nuget/packages/",
+        "outputPath": "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shanky/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/CarRegistration.Core.csproj": {
+                "projectPath": "/home/shanky/workspaces/PlanCare-demo/src/CarRegistration.Core/CarRegistration.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
